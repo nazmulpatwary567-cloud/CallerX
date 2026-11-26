@@ -1,0 +1,6 @@
+{
+  "name": "CallerX",
+  "description": "Open-source SIP/VoIP and dual-SIM dialer with call recording, T9 search, SMS, encrypted backups, and privacy controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
